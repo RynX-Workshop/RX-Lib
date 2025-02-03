@@ -1,0 +1,7 @@
+main: '${group}.${packageName}.${className}Plugin'
+
+name: '${className}'
+version: '${version}'
+
+author: 'RynX Workshop'
+website: 'https://github.com/RynX-Workshop'

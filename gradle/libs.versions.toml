@@ -1,0 +1,8 @@
+[versions]
+shadow = "7.1.2"
+paper = "1.17.1-R0.1-SNAPSHOT"
+paperweight = "1.5.5"
+
+[plugins]
+paperweight = { id = "io.papermc.paperweight.userdev", version.ref = "paperweight" }
+shadow = { id = "com.github.johnrengelman.shadow", version.ref = "shadow" }
