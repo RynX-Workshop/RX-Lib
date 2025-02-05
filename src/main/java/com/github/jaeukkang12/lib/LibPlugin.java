@@ -1,8 +1,8 @@
-package com.github.jaeukkang12.sample;
+package com.github.jaeukkang12.lib;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class SamplePlugin extends JavaPlugin {
+public class LibPlugin extends JavaPlugin {
 
     private static JavaPlugin plugin;
 
@@ -10,8 +10,6 @@ public class SamplePlugin extends JavaPlugin {
     public void onEnable() {
         // Plugin Instance
         plugin = this;
-
-        // TODO: 작성
     }
 
     /**

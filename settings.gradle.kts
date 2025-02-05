@@ -1,2 +1,2 @@
-rootProject.name = "RX-Sample"
+rootProject.name = "RX-Lib"
 

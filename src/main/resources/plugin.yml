@@ -5,3 +5,6 @@ version: '${version}'
 
 author: 'RynX Workshop'
 website: 'https://github.com/RynX-Workshop'
+
+commands:
+  test:
